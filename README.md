@@ -8,9 +8,11 @@
 - Build my own products: HR & payroll for Ghana, POS and inventory SaaS, and a server-management platform
 
 **Stack:** Python · TypeScript · Frappe / ERPNext · Vue 3 · React · MariaDB · Redis · Linux · nginx · GitHub Actions
+
 **Currently learning:** Docker · Kubernetes
 
 📄 **CV:** [Patrick-Anteh-CV.pdf](Patrick-Anteh-CV.pdf)
+
 📫 **Email:** patrickanteh1@gmail.com
 
 ### Featured
