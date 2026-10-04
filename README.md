@@ -15,6 +15,8 @@
 
 📫 **Email:** patrickanteh1@gmail.com
 
+💼 **LinkedIn:** [linkedin.com/in/patrick-anteh](https://www.linkedin.com/in/patrick-anteh)
+
 ### Featured
 - [**ghana-paye-api**](https://github.com/buildwithmoi/ghana-paye-api): a GitHub Actions CI/CD pipeline (lint, test matrix, Docker image smoke-tested and published to GHCR, SSH deploy with automatic rollback) around a Ghana PAYE & SSNIT API.
 
